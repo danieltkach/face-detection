@@ -1,2 +1,2 @@
 # Face Detection
-Just experimenting with AI for the first time.
+Just experimenting with AI for fun.
