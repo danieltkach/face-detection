@@ -1,1 +1,2 @@
-"# Face Detection" 
+# Face Detection
+Just experimenting with AI for fun.
